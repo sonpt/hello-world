@@ -1,1 +1,1 @@
-Test adding files to remote GitHub repo from local machine.
+Test adding files to remote GitHub repo and create new branch from local machine.
